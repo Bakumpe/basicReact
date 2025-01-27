@@ -39,6 +39,9 @@ This app is an e-commerce app showing different products, for sale
 ### 2- Login Form App
 
 This app is a Login App that accepts inputs as Name, Email and Password and displays a welcome message
+User-Name: admin
+Email: admin@admin.com
+Password: admin
 [Preview Login App](https://loginmyform.netlify.app/)
 
 ### 3- News Feed App
