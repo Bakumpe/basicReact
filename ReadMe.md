@@ -42,6 +42,7 @@ This app is a Login App that accepts inputs as Name, Email and Password and disp
 User-Name: admin
 Email: admin@admin.com
 Password: admin
+
 [Preview Login App](https://loginmyform.netlify.app/)
 
 ### 3- News Feed App
